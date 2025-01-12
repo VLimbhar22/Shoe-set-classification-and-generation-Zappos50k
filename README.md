@@ -1,16 +1,5 @@
 ================================================================================
-    UT Zappos50K Shoe Dataset (ver 1.2)
-================================================================================
-
-UT Zappos50K is a large shoe dataset consisting of 50,025 catalog images 
-collected from Zappos.com. This dataset is created in the context of an online 
-shopping task, where users care specifically about fine-grained visual 
-differences. The images are mostly 136 x 102 pixels. The shoes are centered on 
-a white background and pictured in the same orientation for convenient analysis.
-
-
-================================================================================
-# Shoe Image Classification using CNN
+# Shoe Image Classification using CNN and Generating Synthetic Samples using DCGan
 ================================================================================
 
 This project involves building a Convolutional Neural Network (CNN) model to classify shoe images. The dataset used for this project is the **Large Shoe Dataset UT Zappos50K**, available on Kaggle: [Dataset Link](https://www.kaggle.com/datasets/aryashah2k/large-shoe-dataset-ut-zappos50k). The project uses squared images of shoe samples for training and testing. Additionally, synthetic data generation was explored using Deep Convolutional Generative Adversarial Networks (DCGANs) to augment the dataset.
