@@ -1,6 +1,6 @@
-================================================================================
+
 # Shoe Image Classification using CNN and Generating Synthetic Samples using DCGan
-================================================================================
+
 
 This project involves building a Convolutional Neural Network (CNN) model to classify shoe images. The dataset used for this project is the **Large Shoe Dataset UT Zappos50K**, available on Kaggle: [Dataset Link](https://www.kaggle.com/datasets/aryashah2k/large-shoe-dataset-ut-zappos50k). The project uses squared images of shoe samples for training and testing. Additionally, synthetic data generation was explored using Deep Convolutional Generative Adversarial Networks (DCGANs) to augment the dataset.
 
